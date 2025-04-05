@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Kumaramit0809/LeetCode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Kumaramit0809/LeetCode/tree/master/0016-3sum-closest) |
 | [0118-pascals-triangle](https://github.com/Kumaramit0809/LeetCode/tree/master/0118-pascals-triangle) |
 | [0283-move-zeroes](https://github.com/Kumaramit0809/LeetCode/tree/master/0283-move-zeroes) |
 | [3759-choose-k-elements-with-maximum-sum](https://github.com/Kumaramit0809/LeetCode/tree/master/3759-choose-k-elements-with-maximum-sum) |
@@ -15,12 +16,14 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Kumaramit0809/LeetCode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Kumaramit0809/LeetCode/tree/master/0016-3sum-closest) |
 | [0283-move-zeroes](https://github.com/Kumaramit0809/LeetCode/tree/master/0283-move-zeroes) |
 | [3793-longest-palindrome-after-substring-concatenation-i](https://github.com/Kumaramit0809/LeetCode/tree/master/3793-longest-palindrome-after-substring-concatenation-i) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Kumaramit0809/LeetCode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Kumaramit0809/LeetCode/tree/master/0016-3sum-closest) |
 | [3759-choose-k-elements-with-maximum-sum](https://github.com/Kumaramit0809/LeetCode/tree/master/3759-choose-k-elements-with-maximum-sum) |
 ## Dynamic Programming
 |  |
