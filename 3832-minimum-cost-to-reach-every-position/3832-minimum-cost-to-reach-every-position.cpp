@@ -1,9 +1,15 @@
 class Solution {
 public:
     vector<int> minCosts(vector<int>& cost) {
-        vector<int> ans(cost.size());
-        for (int i = 0; i < ans.size(); i++)
-            ans[i] = min((i ? ans[i - 1] : INT_MAX), cost[i]);
+        int n = cost.size();
+        vector<int> ans(n);
+        if (n == 0) return ans;
+
+        ans[0] = cost[0];
+        for (int i = 1; i < n; ++i) {
+            ans[i] = min(ans[i - 1], cost[i]);
+        }
+
         return ans;
     }
 };
