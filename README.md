@@ -7,6 +7,7 @@
 | [0015-3sum](https://github.com/Kumaramit0809/LeetCode/tree/master/0015-3sum) |
 | [0118-pascals-triangle](https://github.com/Kumaramit0809/LeetCode/tree/master/0118-pascals-triangle) |
 | [0283-move-zeroes](https://github.com/Kumaramit0809/LeetCode/tree/master/0283-move-zeroes) |
+| [3759-choose-k-elements-with-maximum-sum](https://github.com/Kumaramit0809/LeetCode/tree/master/3759-choose-k-elements-with-maximum-sum) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Kumaramit0809/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3799-unique-3-digit-even-numbers](https://github.com/Kumaramit0809/LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
 | [3832-minimum-cost-to-reach-every-position](https://github.com/Kumaramit0809/LeetCode/tree/master/3832-minimum-cost-to-reach-every-position) |
@@ -20,6 +21,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Kumaramit0809/LeetCode/tree/master/0015-3sum) |
+| [3759-choose-k-elements-with-maximum-sum](https://github.com/Kumaramit0809/LeetCode/tree/master/3759-choose-k-elements-with-maximum-sum) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -48,4 +50,8 @@
 |  |
 | ------- |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Kumaramit0809/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3759-choose-k-elements-with-maximum-sum](https://github.com/Kumaramit0809/LeetCode/tree/master/3759-choose-k-elements-with-maximum-sum) |
 <!---LeetCode Topics End-->
