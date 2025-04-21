@@ -6,6 +6,7 @@
 | ------- |
 | [0015-3sum](https://github.com/Kumaramit0809/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Kumaramit0809/LeetCode/tree/master/0016-3sum-closest) |
+| [0078-subsets](https://github.com/Kumaramit0809/LeetCode/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/Kumaramit0809/LeetCode/tree/master/0118-pascals-triangle) |
 | [0283-move-zeroes](https://github.com/Kumaramit0809/LeetCode/tree/master/0283-move-zeroes) |
 | [0907-koko-eating-bananas](https://github.com/Kumaramit0809/LeetCode/tree/master/0907-koko-eating-bananas) |
@@ -85,4 +86,12 @@
 |  |
 | ------- |
 | [2050-count-good-numbers](https://github.com/Kumaramit0809/LeetCode/tree/master/2050-count-good-numbers) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Kumaramit0809/LeetCode/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Kumaramit0809/LeetCode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
