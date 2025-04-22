@@ -15,6 +15,7 @@
 | [0907-koko-eating-bananas](https://github.com/Kumaramit0809/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Kumaramit0809/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Kumaramit0809/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Kumaramit0809/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Kumaramit0809/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/Kumaramit0809/LeetCode/tree/master/1646-kth-missing-positive-number) |
 | [3759-choose-k-elements-with-maximum-sum](https://github.com/Kumaramit0809/LeetCode/tree/master/3759-choose-k-elements-with-maximum-sum) |
@@ -73,6 +74,7 @@
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Kumaramit0809/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Kumaramit0809/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Binary Search
 |  |
 | ------- |
@@ -101,4 +103,8 @@
 | ------- |
 | [0078-subsets](https://github.com/Kumaramit0809/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Kumaramit0809/LeetCode/tree/master/0090-subsets-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Kumaramit0809/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
