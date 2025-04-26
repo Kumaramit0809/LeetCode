@@ -16,6 +16,7 @@
 | [0966-binary-subarrays-with-sum](https://github.com/Kumaramit0809/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Kumaramit0809/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Kumaramit0809/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Kumaramit0809/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Kumaramit0809/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Kumaramit0809/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Kumaramit0809/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -57,6 +58,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Kumaramit0809/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0424-longest-repeating-character-replacement](https://github.com/Kumaramit0809/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0966-binary-subarrays-with-sum](https://github.com/Kumaramit0809/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Kumaramit0809/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Kumaramit0809/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3799-unique-3-digit-even-numbers](https://github.com/Kumaramit0809/LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
 ## Recursion
@@ -85,6 +87,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/Kumaramit0809/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0966-binary-subarrays-with-sum](https://github.com/Kumaramit0809/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Kumaramit0809/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Kumaramit0809/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Kumaramit0809/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Binary Search
 |  |
@@ -102,6 +105,7 @@
 ## Math
 |  |
 | ------- |
+| [1370-count-number-of-nice-subarrays](https://github.com/Kumaramit0809/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [2050-count-good-numbers](https://github.com/Kumaramit0809/LeetCode/tree/master/2050-count-good-numbers) |
 ## Backtracking
 |  |
@@ -120,5 +124,6 @@
 | ------- |
 | [0966-binary-subarrays-with-sum](https://github.com/Kumaramit0809/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Kumaramit0809/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Kumaramit0809/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Kumaramit0809/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
