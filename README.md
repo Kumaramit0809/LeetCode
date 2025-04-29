@@ -13,6 +13,7 @@
 | [0078-subsets](https://github.com/Kumaramit0809/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Kumaramit0809/LeetCode/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/Kumaramit0809/LeetCode/tree/master/0118-pascals-triangle) |
+| [0135-candy](https://github.com/Kumaramit0809/LeetCode/tree/master/0135-candy) |
 | [0283-move-zeroes](https://github.com/Kumaramit0809/LeetCode/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/Kumaramit0809/LeetCode/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/Kumaramit0809/LeetCode/tree/master/0890-lemonade-change) |
@@ -92,6 +93,7 @@
 | ------- |
 | [0045-jump-game-ii](https://github.com/Kumaramit0809/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Kumaramit0809/LeetCode/tree/master/0055-jump-game) |
+| [0135-candy](https://github.com/Kumaramit0809/LeetCode/tree/master/0135-candy) |
 | [0455-assign-cookies](https://github.com/Kumaramit0809/LeetCode/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/Kumaramit0809/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0890-lemonade-change](https://github.com/Kumaramit0809/LeetCode/tree/master/0890-lemonade-change) |
