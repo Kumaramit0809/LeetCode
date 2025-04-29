@@ -54,6 +54,7 @@
 | [0008-string-to-integer-atoi](https://github.com/Kumaramit0809/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Kumaramit0809/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/Kumaramit0809/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0290-word-pattern](https://github.com/Kumaramit0809/LeetCode/tree/master/0290-word-pattern) |
 | [0424-longest-repeating-character-replacement](https://github.com/Kumaramit0809/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Kumaramit0809/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [3793-longest-palindrome-after-substring-concatenation-i](https://github.com/Kumaramit0809/LeetCode/tree/master/3793-longest-palindrome-after-substring-concatenation-i) |
@@ -63,6 +64,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Kumaramit0809/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Kumaramit0809/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/Kumaramit0809/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0290-word-pattern](https://github.com/Kumaramit0809/LeetCode/tree/master/0290-word-pattern) |
 | [0424-longest-repeating-character-replacement](https://github.com/Kumaramit0809/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0966-binary-subarrays-with-sum](https://github.com/Kumaramit0809/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Kumaramit0809/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
