@@ -13,6 +13,7 @@
 | [0056-merge-intervals](https://github.com/Kumaramit0809/LeetCode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Kumaramit0809/LeetCode/tree/master/0057-insert-interval) |
 | [0078-subsets](https://github.com/Kumaramit0809/LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Kumaramit0809/LeetCode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Kumaramit0809/LeetCode/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/Kumaramit0809/LeetCode/tree/master/0118-pascals-triangle) |
 | [0135-candy](https://github.com/Kumaramit0809/LeetCode/tree/master/0135-candy) |
@@ -66,6 +67,7 @@
 | [0008-string-to-integer-atoi](https://github.com/Kumaramit0809/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Kumaramit0809/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/Kumaramit0809/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/Kumaramit0809/LeetCode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Kumaramit0809/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0290-word-pattern](https://github.com/Kumaramit0809/LeetCode/tree/master/0290-word-pattern) |
 | [0424-longest-repeating-character-replacement](https://github.com/Kumaramit0809/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
@@ -147,6 +149,7 @@
 | [0039-combination-sum](https://github.com/Kumaramit0809/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Kumaramit0809/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/Kumaramit0809/LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Kumaramit0809/LeetCode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Kumaramit0809/LeetCode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Kumaramit0809/LeetCode/tree/master/0131-palindrome-partitioning) |
 ## Bit Manipulation
@@ -166,4 +169,12 @@
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/Kumaramit0809/LeetCode/tree/master/0678-valid-parenthesis-string) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Kumaramit0809/LeetCode/tree/master/0079-word-search) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Kumaramit0809/LeetCode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
