@@ -44,6 +44,7 @@
 | [0016-3sum-closest](https://github.com/Kumaramit0809/LeetCode/tree/master/0016-3sum-closest) |
 | [0283-move-zeroes](https://github.com/Kumaramit0809/LeetCode/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/Kumaramit0809/LeetCode/tree/master/0455-assign-cookies) |
+| [0868-push-dominoes](https://github.com/Kumaramit0809/LeetCode/tree/master/0868-push-dominoes) |
 | [3793-longest-palindrome-after-substring-concatenation-i](https://github.com/Kumaramit0809/LeetCode/tree/master/3793-longest-palindrome-after-substring-concatenation-i) |
 ## Sorting
 |  |
@@ -63,6 +64,7 @@
 | [0131-palindrome-partitioning](https://github.com/Kumaramit0809/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0410-split-array-largest-sum](https://github.com/Kumaramit0809/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0678-valid-parenthesis-string](https://github.com/Kumaramit0809/LeetCode/tree/master/0678-valid-parenthesis-string) |
+| [0868-push-dominoes](https://github.com/Kumaramit0809/LeetCode/tree/master/0868-push-dominoes) |
 | [3793-longest-palindrome-after-substring-concatenation-i](https://github.com/Kumaramit0809/LeetCode/tree/master/3793-longest-palindrome-after-substring-concatenation-i) |
 ## String
 |  |
@@ -78,6 +80,7 @@
 | [0290-word-pattern](https://github.com/Kumaramit0809/LeetCode/tree/master/0290-word-pattern) |
 | [0424-longest-repeating-character-replacement](https://github.com/Kumaramit0809/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0678-valid-parenthesis-string](https://github.com/Kumaramit0809/LeetCode/tree/master/0678-valid-parenthesis-string) |
+| [0868-push-dominoes](https://github.com/Kumaramit0809/LeetCode/tree/master/0868-push-dominoes) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Kumaramit0809/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [3793-longest-palindrome-after-substring-concatenation-i](https://github.com/Kumaramit0809/LeetCode/tree/master/3793-longest-palindrome-after-substring-concatenation-i) |
 ## Hash Table
