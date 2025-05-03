@@ -18,6 +18,7 @@
 | [0090-subsets-ii](https://github.com/Kumaramit0809/LeetCode/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/Kumaramit0809/LeetCode/tree/master/0118-pascals-triangle) |
 | [0135-candy](https://github.com/Kumaramit0809/LeetCode/tree/master/0135-candy) |
+| [0139-word-break](https://github.com/Kumaramit0809/LeetCode/tree/master/0139-word-break) |
 | [0283-move-zeroes](https://github.com/Kumaramit0809/LeetCode/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/Kumaramit0809/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/Kumaramit0809/LeetCode/tree/master/0455-assign-cookies) |
@@ -62,6 +63,7 @@
 | [0055-jump-game](https://github.com/Kumaramit0809/LeetCode/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/Kumaramit0809/LeetCode/tree/master/0118-pascals-triangle) |
 | [0131-palindrome-partitioning](https://github.com/Kumaramit0809/LeetCode/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/Kumaramit0809/LeetCode/tree/master/0139-word-break) |
 | [0410-split-array-largest-sum](https://github.com/Kumaramit0809/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0678-valid-parenthesis-string](https://github.com/Kumaramit0809/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0868-push-dominoes](https://github.com/Kumaramit0809/LeetCode/tree/master/0868-push-dominoes) |
@@ -77,6 +79,7 @@
 | [0076-minimum-window-substring](https://github.com/Kumaramit0809/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/Kumaramit0809/LeetCode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Kumaramit0809/LeetCode/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/Kumaramit0809/LeetCode/tree/master/0139-word-break) |
 | [0290-word-pattern](https://github.com/Kumaramit0809/LeetCode/tree/master/0290-word-pattern) |
 | [0424-longest-repeating-character-replacement](https://github.com/Kumaramit0809/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0678-valid-parenthesis-string](https://github.com/Kumaramit0809/LeetCode/tree/master/0678-valid-parenthesis-string) |
@@ -90,6 +93,7 @@
 | [0013-roman-to-integer](https://github.com/Kumaramit0809/LeetCode/tree/master/0013-roman-to-integer) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Kumaramit0809/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/Kumaramit0809/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0139-word-break](https://github.com/Kumaramit0809/LeetCode/tree/master/0139-word-break) |
 | [0290-word-pattern](https://github.com/Kumaramit0809/LeetCode/tree/master/0290-word-pattern) |
 | [0424-longest-repeating-character-replacement](https://github.com/Kumaramit0809/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0966-binary-subarrays-with-sum](https://github.com/Kumaramit0809/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
@@ -201,4 +205,12 @@
 |  |
 | ------- |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Kumaramit0809/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Kumaramit0809/LeetCode/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Kumaramit0809/LeetCode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
