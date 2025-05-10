@@ -39,6 +39,7 @@
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Kumaramit0809/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2048-build-array-from-permutation](https://github.com/Kumaramit0809/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Kumaramit0809/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Kumaramit0809/LeetCode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Kumaramit0809/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Kumaramit0809/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3759-choose-k-elements-with-maximum-sum](https://github.com/Kumaramit0809/LeetCode/tree/master/3759-choose-k-elements-with-maximum-sum) |
@@ -138,6 +139,7 @@
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Kumaramit0809/LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Kumaramit0809/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Kumaramit0809/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Kumaramit0809/LeetCode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Kumaramit0809/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Heap (Priority Queue)
 |  |
