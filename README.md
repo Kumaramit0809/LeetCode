@@ -96,6 +96,7 @@
 | [0020-valid-parentheses](https://github.com/Kumaramit0809/LeetCode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Kumaramit0809/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Kumaramit0809/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0067-add-binary](https://github.com/Kumaramit0809/LeetCode/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/Kumaramit0809/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/Kumaramit0809/LeetCode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Kumaramit0809/LeetCode/tree/master/0131-palindrome-partitioning) |
@@ -197,6 +198,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Kumaramit0809/LeetCode/tree/master/0013-roman-to-integer) |
+| [0067-add-binary](https://github.com/Kumaramit0809/LeetCode/tree/master/0067-add-binary) |
 | [0282-expression-add-operators](https://github.com/Kumaramit0809/LeetCode/tree/master/0282-expression-add-operators) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Kumaramit0809/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Kumaramit0809/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -219,6 +221,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Kumaramit0809/LeetCode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Kumaramit0809/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Kumaramit0809/LeetCode/tree/master/0090-subsets-ii) |
 ## Prefix Sum
@@ -271,6 +274,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Kumaramit0809/LeetCode/tree/master/0067-add-binary) |
 | [2048-build-array-from-permutation](https://github.com/Kumaramit0809/LeetCode/tree/master/2048-build-array-from-permutation) |
 ## Graph
 |  |
