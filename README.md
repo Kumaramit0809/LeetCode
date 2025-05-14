@@ -6,6 +6,7 @@
 | ------- |
 | [0015-3sum](https://github.com/Kumaramit0809/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Kumaramit0809/LeetCode/tree/master/0016-3sum-closest) |
+| [0027-remove-element](https://github.com/Kumaramit0809/LeetCode/tree/master/0027-remove-element) |
 | [0037-sudoku-solver](https://github.com/Kumaramit0809/LeetCode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Kumaramit0809/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Kumaramit0809/LeetCode/tree/master/0040-combination-sum-ii) |
@@ -53,6 +54,7 @@
 | ------- |
 | [0015-3sum](https://github.com/Kumaramit0809/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Kumaramit0809/LeetCode/tree/master/0016-3sum-closest) |
+| [0027-remove-element](https://github.com/Kumaramit0809/LeetCode/tree/master/0027-remove-element) |
 | [0283-move-zeroes](https://github.com/Kumaramit0809/LeetCode/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/Kumaramit0809/LeetCode/tree/master/0455-assign-cookies) |
 | [0868-push-dominoes](https://github.com/Kumaramit0809/LeetCode/tree/master/0868-push-dominoes) |
