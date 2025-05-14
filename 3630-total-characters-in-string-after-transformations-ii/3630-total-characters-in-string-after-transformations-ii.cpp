@@ -14,21 +14,12 @@ public:
             }
         }
 
-        cout << "Transformation Matrix T (1 step):\n";
-        printMatrix(T);
-
         vector<long long> freq(n, 0);
         for (char c : s) {
             freq[c - 'a']++;
         }
 
-        cout << "Initial frequency vector:\n";
-        printVector(freq);
-
         auto T_pow = matrixPower(T, t);
-
-        cout << "Transformation Matrix T^" << t << ":\n";
-        printMatrix(T_pow);
 
         vector<long long> result(n, 0);
         for (int i = 0; i < n; ++i) {
@@ -37,21 +28,16 @@ public:
             }
         }
 
-        cout << "Final frequency vector after " << t << " transformations:\n";
-        printVector(result);
-
         long long total = 0;
         for (long long val : result) {
             total = (total + val) % MOD;
         }
 
-        cout << "Total characters after transformations: " << total << "\n";
         return (int)total;
     }
 
 private:
-    vector<vector<long long>> matrixPower(vector<vector<long long>>& base,
-                                          int exp) {
+    vector<vector<long long>> matrixPower(vector<vector<long long>>& base, int exp) {
         int n = base.size();
         vector<vector<long long>> result(n, vector<long long>(n, 0));
         for (int i = 0; i < n; ++i) {
@@ -62,7 +48,6 @@ private:
             if (exp & 1) {
                 result = multiply(result, base);
             }
-
             base = multiply(base, base);
             exp >>= 1;
         }
@@ -70,8 +55,7 @@ private:
         return result;
     }
 
-    vector<vector<long long>> multiply(vector<vector<long long>>& A,
-                                       vector<vector<long long>>& B) {
+    vector<vector<long long>> multiply(vector<vector<long long>>& A, vector<vector<long long>>& B) {
         int n = A.size();
         vector<vector<long long>> res(n, vector<long long>(n, 0));
         for (int i = 0; i < n; ++i) {
@@ -83,23 +67,6 @@ private:
                 }
             }
         }
-
         return res;
-    }
-
-    void printMatrix(const vector<vector<long long>>& mat) {
-        for (int i = 0; i < mat.size(); ++i) {
-            for (int j = 0; j < mat[i].size(); ++j) {
-                cout << mat[i][j] << ' ';
-            }
-            cout << '\n';
-        }
-    }
-
-    void printVector(const vector<long long>& vec) {
-        for (int i = 0; i < vec.size(); ++i) {
-            cout << char('a' + i) << ":" << vec[i] << ' ';
-        }
-        cout << '\n';
     }
 };
