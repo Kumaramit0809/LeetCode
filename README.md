@@ -129,6 +129,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Kumaramit0809/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [2050-count-good-numbers](https://github.com/Kumaramit0809/LeetCode/tree/master/2050-count-good-numbers) |
 | [3799-unique-3-digit-even-numbers](https://github.com/Kumaramit0809/LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
 ## Enumeration
@@ -186,6 +187,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Kumaramit0809/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Kumaramit0809/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 ## Math
 |  |
