@@ -48,6 +48,7 @@
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Kumaramit0809/LeetCode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Kumaramit0809/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Kumaramit0809/LeetCode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/Kumaramit0809/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Kumaramit0809/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Kumaramit0809/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3639-zero-array-transformation-i](https://github.com/Kumaramit0809/LeetCode/tree/master/3639-zero-array-transformation-i) |
@@ -81,6 +82,7 @@
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Kumaramit0809/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Kumaramit0809/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Kumaramit0809/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/Kumaramit0809/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3647-zero-array-transformation-iii](https://github.com/Kumaramit0809/LeetCode/tree/master/3647-zero-array-transformation-iii) |
 | [3759-choose-k-elements-with-maximum-sum](https://github.com/Kumaramit0809/LeetCode/tree/master/3759-choose-k-elements-with-maximum-sum) |
 ## Dynamic Programming
@@ -98,6 +100,7 @@
 | [0868-push-dominoes](https://github.com/Kumaramit0809/LeetCode/tree/master/0868-push-dominoes) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Kumaramit0809/LeetCode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Kumaramit0809/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/Kumaramit0809/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Kumaramit0809/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Kumaramit0809/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Kumaramit0809/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
@@ -176,6 +179,7 @@
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Kumaramit0809/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Kumaramit0809/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Kumaramit0809/LeetCode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/Kumaramit0809/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3647-zero-array-transformation-iii](https://github.com/Kumaramit0809/LeetCode/tree/master/3647-zero-array-transformation-iii) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Kumaramit0809/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Heap (Priority Queue)
@@ -248,6 +252,7 @@
 | [0067-add-binary](https://github.com/Kumaramit0809/LeetCode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Kumaramit0809/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Kumaramit0809/LeetCode/tree/master/0090-subsets-ii) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/Kumaramit0809/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -327,4 +332,8 @@
 | ------- |
 | [0175-combine-two-tables](https://github.com/Kumaramit0809/LeetCode/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/Kumaramit0809/LeetCode/tree/master/0176-second-highest-salary) |
+## Tree
+|  |
+| ------- |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/Kumaramit0809/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 <!---LeetCode Topics End-->
