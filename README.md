@@ -234,6 +234,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Kumaramit0809/LeetCode/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/Kumaramit0809/LeetCode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Kumaramit0809/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Kumaramit0809/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Kumaramit0809/LeetCode/tree/master/0070-climbing-stairs) |
@@ -260,6 +261,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Kumaramit0809/LeetCode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Kumaramit0809/LeetCode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Kumaramit0809/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Kumaramit0809/LeetCode/tree/master/0090-subsets-ii) |
