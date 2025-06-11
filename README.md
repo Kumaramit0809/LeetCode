@@ -136,6 +136,7 @@
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Kumaramit0809/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Kumaramit0809/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Kumaramit0809/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Kumaramit0809/LeetCode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3793-longest-palindrome-after-substring-concatenation-i](https://github.com/Kumaramit0809/LeetCode/tree/master/3793-longest-palindrome-after-substring-concatenation-i) |
 ## Hash Table
 |  |
@@ -171,6 +172,7 @@
 |  |
 | ------- |
 | [2215-finding-3-digit-even-numbers](https://github.com/Kumaramit0809/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Kumaramit0809/LeetCode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3793-longest-palindrome-after-substring-concatenation-i](https://github.com/Kumaramit0809/LeetCode/tree/master/3793-longest-palindrome-after-substring-concatenation-i) |
 | [3799-unique-3-digit-even-numbers](https://github.com/Kumaramit0809/LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
 ## Greedy
@@ -212,6 +214,7 @@
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Kumaramit0809/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Kumaramit0809/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Kumaramit0809/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Kumaramit0809/LeetCode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -277,6 +280,7 @@
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Kumaramit0809/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [3639-zero-array-transformation-i](https://github.com/Kumaramit0809/LeetCode/tree/master/3639-zero-array-transformation-i) |
 | [3647-zero-array-transformation-iii](https://github.com/Kumaramit0809/LeetCode/tree/master/3647-zero-array-transformation-iii) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Kumaramit0809/LeetCode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Stack
 |  |
 | ------- |
