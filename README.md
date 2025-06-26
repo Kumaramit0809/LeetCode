@@ -278,6 +278,7 @@
 | [0067-add-binary](https://github.com/Kumaramit0809/LeetCode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Kumaramit0809/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Kumaramit0809/LeetCode/tree/master/0090-subsets-ii) |
+| [0190-reverse-bits](https://github.com/Kumaramit0809/LeetCode/tree/master/0190-reverse-bits) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Kumaramit0809/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Prefix Sum
 |  |
@@ -397,4 +398,8 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Kumaramit0809/LeetCode/tree/master/0258-add-digits) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/Kumaramit0809/LeetCode/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
