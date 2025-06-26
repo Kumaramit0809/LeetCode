@@ -248,6 +248,7 @@
 | [0067-add-binary](https://github.com/Kumaramit0809/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Kumaramit0809/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Kumaramit0809/LeetCode/tree/master/0070-climbing-stairs) |
+| [0258-add-digits](https://github.com/Kumaramit0809/LeetCode/tree/master/0258-add-digits) |
 | [0282-expression-add-operators](https://github.com/Kumaramit0809/LeetCode/tree/master/0282-expression-add-operators) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Kumaramit0809/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Kumaramit0809/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -343,6 +344,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Kumaramit0809/LeetCode/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/Kumaramit0809/LeetCode/tree/master/0258-add-digits) |
 | [2048-build-array-from-permutation](https://github.com/Kumaramit0809/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Kumaramit0809/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 ## Graph
@@ -391,4 +393,8 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Kumaramit0809/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Kumaramit0809/LeetCode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
