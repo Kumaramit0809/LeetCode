@@ -129,6 +129,7 @@
 | [0139-word-break](https://github.com/Kumaramit0809/LeetCode/tree/master/0139-word-break) |
 | [0282-expression-add-operators](https://github.com/Kumaramit0809/LeetCode/tree/master/0282-expression-add-operators) |
 | [0290-word-pattern](https://github.com/Kumaramit0809/LeetCode/tree/master/0290-word-pattern) |
+| [0412-fizz-buzz](https://github.com/Kumaramit0809/LeetCode/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/Kumaramit0809/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0678-valid-parenthesis-string](https://github.com/Kumaramit0809/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0868-push-dominoes](https://github.com/Kumaramit0809/LeetCode/tree/master/0868-push-dominoes) |
@@ -256,6 +257,7 @@
 | [0070-climbing-stairs](https://github.com/Kumaramit0809/LeetCode/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/Kumaramit0809/LeetCode/tree/master/0258-add-digits) |
 | [0282-expression-add-operators](https://github.com/Kumaramit0809/LeetCode/tree/master/0282-expression-add-operators) |
+| [0412-fizz-buzz](https://github.com/Kumaramit0809/LeetCode/tree/master/0412-fizz-buzz) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Kumaramit0809/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Kumaramit0809/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2050-count-good-numbers](https://github.com/Kumaramit0809/LeetCode/tree/master/2050-count-good-numbers) |
@@ -354,6 +356,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/Kumaramit0809/LeetCode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Kumaramit0809/LeetCode/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/Kumaramit0809/LeetCode/tree/master/0412-fizz-buzz) |
 | [2048-build-array-from-permutation](https://github.com/Kumaramit0809/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Kumaramit0809/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 ## Graph
