@@ -109,6 +109,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Kumaramit0809/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/Kumaramit0809/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Kumaramit0809/LeetCode/tree/master/0139-word-break) |
+| [0233-number-of-digit-one](https://github.com/Kumaramit0809/LeetCode/tree/master/0233-number-of-digit-one) |
 | [0410-split-array-largest-sum](https://github.com/Kumaramit0809/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0678-valid-parenthesis-string](https://github.com/Kumaramit0809/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0806-domino-and-tromino-tiling](https://github.com/Kumaramit0809/LeetCode/tree/master/0806-domino-and-tromino-tiling) |
@@ -189,6 +190,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Kumaramit0809/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0233-number-of-digit-one](https://github.com/Kumaramit0809/LeetCode/tree/master/0233-number-of-digit-one) |
 | [2050-count-good-numbers](https://github.com/Kumaramit0809/LeetCode/tree/master/2050-count-good-numbers) |
 | [3799-unique-3-digit-even-numbers](https://github.com/Kumaramit0809/LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
 ## Enumeration
@@ -273,6 +275,7 @@
 | [0070-climbing-stairs](https://github.com/Kumaramit0809/LeetCode/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/Kumaramit0809/LeetCode/tree/master/0089-gray-code) |
 | [0227-basic-calculator-ii](https://github.com/Kumaramit0809/LeetCode/tree/master/0227-basic-calculator-ii) |
+| [0233-number-of-digit-one](https://github.com/Kumaramit0809/LeetCode/tree/master/0233-number-of-digit-one) |
 | [0258-add-digits](https://github.com/Kumaramit0809/LeetCode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Kumaramit0809/LeetCode/tree/master/0263-ugly-number) |
 | [0282-expression-add-operators](https://github.com/Kumaramit0809/LeetCode/tree/master/0282-expression-add-operators) |
