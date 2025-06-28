@@ -12,6 +12,7 @@
 | [0040-combination-sum-ii](https://github.com/Kumaramit0809/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/Kumaramit0809/LeetCode/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/Kumaramit0809/LeetCode/tree/master/0045-jump-game-ii) |
+| [0049-group-anagrams](https://github.com/Kumaramit0809/LeetCode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Kumaramit0809/LeetCode/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/Kumaramit0809/LeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Kumaramit0809/LeetCode/tree/master/0056-merge-intervals) |
@@ -88,6 +89,7 @@
 | ------- |
 | [0015-3sum](https://github.com/Kumaramit0809/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Kumaramit0809/LeetCode/tree/master/0016-3sum-closest) |
+| [0049-group-anagrams](https://github.com/Kumaramit0809/LeetCode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Kumaramit0809/LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Kumaramit0809/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Kumaramit0809/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -135,6 +137,7 @@
 | [0020-valid-parentheses](https://github.com/Kumaramit0809/LeetCode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Kumaramit0809/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Kumaramit0809/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0049-group-anagrams](https://github.com/Kumaramit0809/LeetCode/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/Kumaramit0809/LeetCode/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/Kumaramit0809/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/Kumaramit0809/LeetCode/tree/master/0079-word-search) |
@@ -169,6 +172,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Kumaramit0809/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0037-sudoku-solver](https://github.com/Kumaramit0809/LeetCode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Kumaramit0809/LeetCode/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/Kumaramit0809/LeetCode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Kumaramit0809/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/Kumaramit0809/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0139-word-break](https://github.com/Kumaramit0809/LeetCode/tree/master/0139-word-break) |
