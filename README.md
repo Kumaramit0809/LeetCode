@@ -49,6 +49,7 @@
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Kumaramit0809/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Kumaramit0809/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Kumaramit0809/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Kumaramit0809/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1646-kth-missing-positive-number](https://github.com/Kumaramit0809/LeetCode/tree/master/1646-kth-missing-positive-number) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Kumaramit0809/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2048-build-array-from-permutation](https://github.com/Kumaramit0809/LeetCode/tree/master/2048-build-array-from-permutation) |
@@ -82,6 +83,7 @@
 | [0283-move-zeroes](https://github.com/Kumaramit0809/LeetCode/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/Kumaramit0809/LeetCode/tree/master/0455-assign-cookies) |
 | [0868-push-dominoes](https://github.com/Kumaramit0809/LeetCode/tree/master/0868-push-dominoes) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Kumaramit0809/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Kumaramit0809/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [3793-longest-palindrome-after-substring-concatenation-i](https://github.com/Kumaramit0809/LeetCode/tree/master/3793-longest-palindrome-after-substring-concatenation-i) |
 ## Sorting
@@ -94,6 +96,7 @@
 | [0075-sort-colors](https://github.com/Kumaramit0809/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Kumaramit0809/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0455-assign-cookies](https://github.com/Kumaramit0809/LeetCode/tree/master/0455-assign-cookies) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Kumaramit0809/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Kumaramit0809/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Kumaramit0809/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Kumaramit0809/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -266,6 +269,7 @@
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Kumaramit0809/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Kumaramit0809/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Kumaramit0809/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Kumaramit0809/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1646-kth-missing-positive-number](https://github.com/Kumaramit0809/LeetCode/tree/master/1646-kth-missing-positive-number) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Kumaramit0809/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Kumaramit0809/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
