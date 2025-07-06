@@ -54,6 +54,7 @@
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Kumaramit0809/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1646-kth-missing-positive-number](https://github.com/Kumaramit0809/LeetCode/tree/master/1646-kth-missing-positive-number) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Kumaramit0809/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/Kumaramit0809/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2048-build-array-from-permutation](https://github.com/Kumaramit0809/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Kumaramit0809/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Kumaramit0809/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -195,6 +196,7 @@
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Kumaramit0809/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Kumaramit0809/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Kumaramit0809/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/Kumaramit0809/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Kumaramit0809/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Kumaramit0809/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Kumaramit0809/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -474,4 +476,8 @@
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/Kumaramit0809/LeetCode/tree/master/0190-reverse-bits) |
+## Design
+|  |
+| ------- |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/Kumaramit0809/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 <!---LeetCode Topics End-->
