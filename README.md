@@ -63,6 +63,7 @@
 | [2215-finding-3-digit-even-numbers](https://github.com/Kumaramit0809/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Kumaramit0809/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Kumaramit0809/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2479-meeting-rooms-iii](https://github.com/Kumaramit0809/LeetCode/tree/master/2479-meeting-rooms-iii) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Kumaramit0809/LeetCode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Kumaramit0809/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Kumaramit0809/LeetCode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
@@ -109,6 +110,7 @@
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Kumaramit0809/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Kumaramit0809/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Kumaramit0809/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
+| [2479-meeting-rooms-iii](https://github.com/Kumaramit0809/LeetCode/tree/master/2479-meeting-rooms-iii) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Kumaramit0809/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3647-zero-array-transformation-iii](https://github.com/Kumaramit0809/LeetCode/tree/master/3647-zero-array-transformation-iii) |
 | [3759-choose-k-elements-with-maximum-sum](https://github.com/Kumaramit0809/LeetCode/tree/master/3759-choose-k-elements-with-maximum-sum) |
@@ -205,6 +207,7 @@
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Kumaramit0809/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Kumaramit0809/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Kumaramit0809/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2479-meeting-rooms-iii](https://github.com/Kumaramit0809/LeetCode/tree/master/2479-meeting-rooms-iii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Kumaramit0809/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Kumaramit0809/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Kumaramit0809/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -258,6 +261,7 @@
 | [0239-sliding-window-maximum](https://github.com/Kumaramit0809/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Kumaramit0809/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Kumaramit0809/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2479-meeting-rooms-iii](https://github.com/Kumaramit0809/LeetCode/tree/master/2479-meeting-rooms-iii) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Kumaramit0809/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Kumaramit0809/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/Kumaramit0809/LeetCode/tree/master/3647-zero-array-transformation-iii) |
@@ -429,6 +433,7 @@
 | [0412-fizz-buzz](https://github.com/Kumaramit0809/LeetCode/tree/master/0412-fizz-buzz) |
 | [2048-build-array-from-permutation](https://github.com/Kumaramit0809/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Kumaramit0809/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2479-meeting-rooms-iii](https://github.com/Kumaramit0809/LeetCode/tree/master/2479-meeting-rooms-iii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Kumaramit0809/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Graph
 |  |
