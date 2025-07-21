@@ -1,6 +1,6 @@
 class Solution {
 public:
-    string makeFancyString(const std::string& s) {
+    string makeFancyString(const string& s) {
         string result;
         for (char c : s) {
             int n = result.size();
