@@ -172,6 +172,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/Kumaramit0809/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0678-valid-parenthesis-string](https://github.com/Kumaramit0809/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0868-push-dominoes](https://github.com/Kumaramit0809/LeetCode/tree/master/0868-push-dominoes) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/Kumaramit0809/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Kumaramit0809/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Kumaramit0809/LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Kumaramit0809/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
