@@ -85,6 +85,7 @@
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Kumaramit0809/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Kumaramit0809/LeetCode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/Kumaramit0809/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/Kumaramit0809/LeetCode/tree/master/3791-fruits-into-baskets-iii) |
 | [3799-unique-3-digit-even-numbers](https://github.com/Kumaramit0809/LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
 | [3832-minimum-cost-to-reach-every-position](https://github.com/Kumaramit0809/LeetCode/tree/master/3832-minimum-cost-to-reach-every-position) |
 ## Two Pointers
@@ -331,6 +332,7 @@
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Kumaramit0809/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Kumaramit0809/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [3790-fruits-into-baskets-ii](https://github.com/Kumaramit0809/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/Kumaramit0809/LeetCode/tree/master/3791-fruits-into-baskets-iii) |
 ## Linked List
 |  |
 | ------- |
@@ -545,8 +547,10 @@
 | ------- |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Kumaramit0809/LeetCode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/Kumaramit0809/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/Kumaramit0809/LeetCode/tree/master/3791-fruits-into-baskets-iii) |
 ## Ordered Set
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/Kumaramit0809/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/Kumaramit0809/LeetCode/tree/master/3791-fruits-into-baskets-iii) |
 <!---LeetCode Topics End-->
