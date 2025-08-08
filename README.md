@@ -145,6 +145,7 @@
 | [0410-split-array-largest-sum](https://github.com/Kumaramit0809/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0678-valid-parenthesis-string](https://github.com/Kumaramit0809/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0806-domino-and-tromino-tiling](https://github.com/Kumaramit0809/LeetCode/tree/master/0806-domino-and-tromino-tiling) |
+| [0826-soup-servings](https://github.com/Kumaramit0809/LeetCode/tree/master/0826-soup-servings) |
 | [0868-push-dominoes](https://github.com/Kumaramit0809/LeetCode/tree/master/0868-push-dominoes) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Kumaramit0809/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Kumaramit0809/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -355,6 +356,7 @@
 | [0263-ugly-number](https://github.com/Kumaramit0809/LeetCode/tree/master/0263-ugly-number) |
 | [0282-expression-add-operators](https://github.com/Kumaramit0809/LeetCode/tree/master/0282-expression-add-operators) |
 | [0412-fizz-buzz](https://github.com/Kumaramit0809/LeetCode/tree/master/0412-fizz-buzz) |
+| [0826-soup-servings](https://github.com/Kumaramit0809/LeetCode/tree/master/0826-soup-servings) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Kumaramit0809/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Kumaramit0809/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Kumaramit0809/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -553,4 +555,8 @@
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/Kumaramit0809/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Kumaramit0809/LeetCode/tree/master/3791-fruits-into-baskets-iii) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0826-soup-servings](https://github.com/Kumaramit0809/LeetCode/tree/master/0826-soup-servings) |
 <!---LeetCode Topics End-->
