@@ -71,6 +71,7 @@
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Kumaramit0809/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2479-meeting-rooms-iii](https://github.com/Kumaramit0809/LeetCode/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Kumaramit0809/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2529-range-product-queries-of-powers](https://github.com/Kumaramit0809/LeetCode/tree/master/2529-range-product-queries-of-powers) |
 | [2689-rearranging-fruits](https://github.com/Kumaramit0809/LeetCode/tree/master/2689-rearranging-fruits) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Kumaramit0809/LeetCode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Kumaramit0809/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -399,6 +400,7 @@
 | [0190-reverse-bits](https://github.com/Kumaramit0809/LeetCode/tree/master/0190-reverse-bits) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Kumaramit0809/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Kumaramit0809/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2529-range-product-queries-of-powers](https://github.com/Kumaramit0809/LeetCode/tree/master/2529-range-product-queries-of-powers) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Kumaramit0809/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Kumaramit0809/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Kumaramit0809/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
@@ -413,6 +415,7 @@
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Kumaramit0809/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Kumaramit0809/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Kumaramit0809/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+| [2529-range-product-queries-of-powers](https://github.com/Kumaramit0809/LeetCode/tree/master/2529-range-product-queries-of-powers) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Kumaramit0809/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
 | [3639-zero-array-transformation-i](https://github.com/Kumaramit0809/LeetCode/tree/master/3639-zero-array-transformation-i) |
 | [3647-zero-array-transformation-iii](https://github.com/Kumaramit0809/LeetCode/tree/master/3647-zero-array-transformation-iii) |
