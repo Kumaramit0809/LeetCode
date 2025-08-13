@@ -247,6 +247,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/Kumaramit0809/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0060-permutation-sequence](https://github.com/Kumaramit0809/LeetCode/tree/master/0060-permutation-sequence) |
 | [0233-number-of-digit-one](https://github.com/Kumaramit0809/LeetCode/tree/master/0233-number-of-digit-one) |
+| [0326-power-of-three](https://github.com/Kumaramit0809/LeetCode/tree/master/0326-power-of-three) |
 | [2050-count-good-numbers](https://github.com/Kumaramit0809/LeetCode/tree/master/2050-count-good-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Kumaramit0809/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Kumaramit0809/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
@@ -359,6 +360,7 @@
 | [0258-add-digits](https://github.com/Kumaramit0809/LeetCode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Kumaramit0809/LeetCode/tree/master/0263-ugly-number) |
 | [0282-expression-add-operators](https://github.com/Kumaramit0809/LeetCode/tree/master/0282-expression-add-operators) |
+| [0326-power-of-three](https://github.com/Kumaramit0809/LeetCode/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/Kumaramit0809/LeetCode/tree/master/0412-fizz-buzz) |
 | [0826-soup-servings](https://github.com/Kumaramit0809/LeetCode/tree/master/0826-soup-servings) |
 | [0900-reordered-power-of-2](https://github.com/Kumaramit0809/LeetCode/tree/master/0900-reordered-power-of-2) |
