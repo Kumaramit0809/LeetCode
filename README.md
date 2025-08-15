@@ -249,6 +249,7 @@
 | [0060-permutation-sequence](https://github.com/Kumaramit0809/LeetCode/tree/master/0060-permutation-sequence) |
 | [0233-number-of-digit-one](https://github.com/Kumaramit0809/LeetCode/tree/master/0233-number-of-digit-one) |
 | [0326-power-of-three](https://github.com/Kumaramit0809/LeetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Kumaramit0809/LeetCode/tree/master/0342-power-of-four) |
 | [2050-count-good-numbers](https://github.com/Kumaramit0809/LeetCode/tree/master/2050-count-good-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Kumaramit0809/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Kumaramit0809/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
@@ -362,6 +363,7 @@
 | [0263-ugly-number](https://github.com/Kumaramit0809/LeetCode/tree/master/0263-ugly-number) |
 | [0282-expression-add-operators](https://github.com/Kumaramit0809/LeetCode/tree/master/0282-expression-add-operators) |
 | [0326-power-of-three](https://github.com/Kumaramit0809/LeetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Kumaramit0809/LeetCode/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/Kumaramit0809/LeetCode/tree/master/0412-fizz-buzz) |
 | [0826-soup-servings](https://github.com/Kumaramit0809/LeetCode/tree/master/0826-soup-servings) |
 | [0900-reordered-power-of-2](https://github.com/Kumaramit0809/LeetCode/tree/master/0900-reordered-power-of-2) |
@@ -401,6 +403,7 @@
 | [0089-gray-code](https://github.com/Kumaramit0809/LeetCode/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/Kumaramit0809/LeetCode/tree/master/0090-subsets-ii) |
 | [0190-reverse-bits](https://github.com/Kumaramit0809/LeetCode/tree/master/0190-reverse-bits) |
+| [0342-power-of-four](https://github.com/Kumaramit0809/LeetCode/tree/master/0342-power-of-four) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Kumaramit0809/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Kumaramit0809/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2529-range-product-queries-of-powers](https://github.com/Kumaramit0809/LeetCode/tree/master/2529-range-product-queries-of-powers) |
