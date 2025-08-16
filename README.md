@@ -278,6 +278,7 @@
 | [0678-valid-parenthesis-string](https://github.com/Kumaramit0809/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0890-lemonade-change](https://github.com/Kumaramit0809/LeetCode/tree/master/0890-lemonade-change) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Kumaramit0809/LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [1448-maximum-69-number](https://github.com/Kumaramit0809/LeetCode/tree/master/1448-maximum-69-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Kumaramit0809/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Kumaramit0809/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Kumaramit0809/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -370,6 +371,7 @@
 | [1370-count-number-of-nice-subarrays](https://github.com/Kumaramit0809/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Kumaramit0809/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Kumaramit0809/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1448-maximum-69-number](https://github.com/Kumaramit0809/LeetCode/tree/master/1448-maximum-69-number) |
 | [2050-count-good-numbers](https://github.com/Kumaramit0809/LeetCode/tree/master/2050-count-good-numbers) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Kumaramit0809/LeetCode/tree/master/2202-sum-of-k-mirror-numbers) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Kumaramit0809/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
