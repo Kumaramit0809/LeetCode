@@ -69,6 +69,7 @@
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Kumaramit0809/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Kumaramit0809/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Kumaramit0809/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/Kumaramit0809/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2479-meeting-rooms-iii](https://github.com/Kumaramit0809/LeetCode/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Kumaramit0809/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2529-range-product-queries-of-powers](https://github.com/Kumaramit0809/LeetCode/tree/master/2529-range-product-queries-of-powers) |
@@ -377,6 +378,7 @@
 | [1448-maximum-69-number](https://github.com/Kumaramit0809/LeetCode/tree/master/1448-maximum-69-number) |
 | [2050-count-good-numbers](https://github.com/Kumaramit0809/LeetCode/tree/master/2050-count-good-numbers) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Kumaramit0809/LeetCode/tree/master/2202-sum-of-k-mirror-numbers) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/Kumaramit0809/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Kumaramit0809/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Kumaramit0809/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Kumaramit0809/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
