@@ -34,6 +34,7 @@
 | [0283-move-zeroes](https://github.com/Kumaramit0809/LeetCode/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/Kumaramit0809/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/Kumaramit0809/LeetCode/tree/master/0455-assign-cookies) |
+| [0498-diagonal-traverse](https://github.com/Kumaramit0809/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0594-longest-harmonious-subsequence](https://github.com/Kumaramit0809/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0890-lemonade-change](https://github.com/Kumaramit0809/LeetCode/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/Kumaramit0809/LeetCode/tree/master/0907-koko-eating-bananas) |
@@ -465,6 +466,7 @@
 | [0037-sudoku-solver](https://github.com/Kumaramit0809/LeetCode/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/Kumaramit0809/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/Kumaramit0809/LeetCode/tree/master/0079-word-search) |
+| [0498-diagonal-traverse](https://github.com/Kumaramit0809/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0945-snakes-and-ladders](https://github.com/Kumaramit0809/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Kumaramit0809/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Kumaramit0809/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
@@ -513,6 +515,7 @@
 | [0067-add-binary](https://github.com/Kumaramit0809/LeetCode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Kumaramit0809/LeetCode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Kumaramit0809/LeetCode/tree/master/0412-fizz-buzz) |
+| [0498-diagonal-traverse](https://github.com/Kumaramit0809/LeetCode/tree/master/0498-diagonal-traverse) |
 | [2048-build-array-from-permutation](https://github.com/Kumaramit0809/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Kumaramit0809/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2479-meeting-rooms-iii](https://github.com/Kumaramit0809/LeetCode/tree/master/2479-meeting-rooms-iii) |
