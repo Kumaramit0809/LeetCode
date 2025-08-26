@@ -81,6 +81,7 @@
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Kumaramit0809/LeetCode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Kumaramit0809/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Kumaramit0809/LeetCode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Kumaramit0809/LeetCode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Kumaramit0809/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Kumaramit0809/LeetCode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Kumaramit0809/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
