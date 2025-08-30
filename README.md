@@ -7,6 +7,7 @@
 | [0015-3sum](https://github.com/Kumaramit0809/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Kumaramit0809/LeetCode/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/Kumaramit0809/LeetCode/tree/master/0027-remove-element) |
+| [0036-valid-sudoku](https://github.com/Kumaramit0809/LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Kumaramit0809/LeetCode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Kumaramit0809/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Kumaramit0809/LeetCode/tree/master/0040-combination-sum-ii) |
@@ -225,6 +226,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Kumaramit0809/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Kumaramit0809/LeetCode/tree/master/0013-roman-to-integer) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Kumaramit0809/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0036-valid-sudoku](https://github.com/Kumaramit0809/LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Kumaramit0809/LeetCode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Kumaramit0809/LeetCode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Kumaramit0809/LeetCode/tree/master/0049-group-anagrams) |
@@ -467,6 +469,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Kumaramit0809/LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Kumaramit0809/LeetCode/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/Kumaramit0809/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/Kumaramit0809/LeetCode/tree/master/0079-word-search) |
