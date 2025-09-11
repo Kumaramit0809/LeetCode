@@ -143,6 +143,7 @@
 | [2479-meeting-rooms-iii](https://github.com/Kumaramit0809/LeetCode/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Kumaramit0809/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2689-rearranging-fruits](https://github.com/Kumaramit0809/LeetCode/tree/master/2689-rearranging-fruits) |
+| [2887-sort-vowels-in-a-string](https://github.com/Kumaramit0809/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Kumaramit0809/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Kumaramit0809/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Kumaramit0809/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
@@ -217,6 +218,7 @@
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Kumaramit0809/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Kumaramit0809/LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Kumaramit0809/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [2887-sort-vowels-in-a-string](https://github.com/Kumaramit0809/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Kumaramit0809/LeetCode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Kumaramit0809/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3617-find-the-original-typed-string-i](https://github.com/Kumaramit0809/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
