@@ -270,6 +270,7 @@
 | [2689-rearranging-fruits](https://github.com/Kumaramit0809/LeetCode/tree/master/2689-rearranging-fruits) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Kumaramit0809/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Kumaramit0809/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
+| [3678-design-task-manager](https://github.com/Kumaramit0809/LeetCode/tree/master/3678-design-task-manager) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Kumaramit0809/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Kumaramit0809/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3799-unique-3-digit-even-numbers](https://github.com/Kumaramit0809/LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
@@ -342,6 +343,7 @@
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Kumaramit0809/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Kumaramit0809/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/Kumaramit0809/LeetCode/tree/master/3647-zero-array-transformation-iii) |
+| [3678-design-task-manager](https://github.com/Kumaramit0809/LeetCode/tree/master/3678-design-task-manager) |
 | [3759-choose-k-elements-with-maximum-sum](https://github.com/Kumaramit0809/LeetCode/tree/master/3759-choose-k-elements-with-maximum-sum) |
 ## Sliding Window
 |  |
@@ -619,6 +621,7 @@
 |  |
 | ------- |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Kumaramit0809/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [3678-design-task-manager](https://github.com/Kumaramit0809/LeetCode/tree/master/3678-design-task-manager) |
 ## Hash Function
 |  |
 | ------- |
@@ -632,6 +635,7 @@
 ## Ordered Set
 |  |
 | ------- |
+| [3678-design-task-manager](https://github.com/Kumaramit0809/LeetCode/tree/master/3678-design-task-manager) |
 | [3790-fruits-into-baskets-ii](https://github.com/Kumaramit0809/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Kumaramit0809/LeetCode/tree/master/3791-fruits-into-baskets-iii) |
 ## Probability and Statistics
