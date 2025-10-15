@@ -102,6 +102,7 @@
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Kumaramit0809/LeetCode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Kumaramit0809/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Kumaramit0809/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
+| [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Kumaramit0809/LeetCode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Kumaramit0809/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Kumaramit0809/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3639-zero-array-transformation-i](https://github.com/Kumaramit0809/LeetCode/tree/master/3639-zero-array-transformation-i) |
@@ -416,6 +417,7 @@
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Kumaramit0809/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Kumaramit0809/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Kumaramit0809/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Kumaramit0809/LeetCode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/Kumaramit0809/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Kumaramit0809/LeetCode/tree/master/3791-fruits-into-baskets-iii) |
 | [3827-implement-router](https://github.com/Kumaramit0809/LeetCode/tree/master/3827-implement-router) |
