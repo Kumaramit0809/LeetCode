@@ -125,6 +125,7 @@
 | [3799-unique-3-digit-even-numbers](https://github.com/Kumaramit0809/LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
 | [3827-implement-router](https://github.com/Kumaramit0809/LeetCode/tree/master/3827-implement-router) |
 | [3832-minimum-cost-to-reach-every-position](https://github.com/Kumaramit0809/LeetCode/tree/master/3832-minimum-cost-to-reach-every-position) |
+| [3863-power-grid-maintenance](https://github.com/Kumaramit0809/LeetCode/tree/master/3863-power-grid-maintenance) |
 ## Two Pointers
 |  |
 | ------- |
@@ -324,6 +325,7 @@
 | [3797-design-spreadsheet](https://github.com/Kumaramit0809/LeetCode/tree/master/3797-design-spreadsheet) |
 | [3799-unique-3-digit-even-numbers](https://github.com/Kumaramit0809/LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
 | [3827-implement-router](https://github.com/Kumaramit0809/LeetCode/tree/master/3827-implement-router) |
+| [3863-power-grid-maintenance](https://github.com/Kumaramit0809/LeetCode/tree/master/3863-power-grid-maintenance) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Kumaramit0809/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Recursion
 |  |
@@ -403,6 +405,7 @@
 | [3647-zero-array-transformation-iii](https://github.com/Kumaramit0809/LeetCode/tree/master/3647-zero-array-transformation-iii) |
 | [3678-design-task-manager](https://github.com/Kumaramit0809/LeetCode/tree/master/3678-design-task-manager) |
 | [3759-choose-k-elements-with-maximum-sum](https://github.com/Kumaramit0809/LeetCode/tree/master/3759-choose-k-elements-with-maximum-sum) |
+| [3863-power-grid-maintenance](https://github.com/Kumaramit0809/LeetCode/tree/master/3863-power-grid-maintenance) |
 ## Sliding Window
 |  |
 | ------- |
@@ -575,6 +578,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Kumaramit0809/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Kumaramit0809/LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Kumaramit0809/LeetCode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
+| [3863-power-grid-maintenance](https://github.com/Kumaramit0809/LeetCode/tree/master/3863-power-grid-maintenance) |
 ## Matrix
 |  |
 | ------- |
@@ -659,6 +663,7 @@
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Kumaramit0809/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Kumaramit0809/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Kumaramit0809/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3863-power-grid-maintenance](https://github.com/Kumaramit0809/LeetCode/tree/master/3863-power-grid-maintenance) |
 ## Shortest Path
 |  |
 | ------- |
@@ -697,6 +702,7 @@
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Kumaramit0809/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Kumaramit0809/LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Kumaramit0809/LeetCode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
+| [3863-power-grid-maintenance](https://github.com/Kumaramit0809/LeetCode/tree/master/3863-power-grid-maintenance) |
 ## Binary Tree
 |  |
 | ------- |
@@ -738,6 +744,7 @@
 | [3790-fruits-into-baskets-ii](https://github.com/Kumaramit0809/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Kumaramit0809/LeetCode/tree/master/3791-fruits-into-baskets-iii) |
 | [3827-implement-router](https://github.com/Kumaramit0809/LeetCode/tree/master/3827-implement-router) |
+| [3863-power-grid-maintenance](https://github.com/Kumaramit0809/LeetCode/tree/master/3863-power-grid-maintenance) |
 ## Probability and Statistics
 |  |
 | ------- |
@@ -762,4 +769,8 @@
 |  |
 | ------- |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Kumaramit0809/LeetCode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
+## Union Find
+|  |
+| ------- |
+| [3863-power-grid-maintenance](https://github.com/Kumaramit0809/LeetCode/tree/master/3863-power-grid-maintenance) |
 <!---LeetCode Topics End-->
