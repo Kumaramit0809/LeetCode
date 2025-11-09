@@ -51,6 +51,7 @@
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Kumaramit0809/LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Kumaramit0809/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Kumaramit0809/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1284-four-divisors](https://github.com/Kumaramit0809/LeetCode/tree/master/1284-four-divisors) |
 | [1293-three-consecutive-odds](https://github.com/Kumaramit0809/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Kumaramit0809/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Kumaramit0809/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -482,6 +483,7 @@
 | [0830-largest-triangle-area](https://github.com/Kumaramit0809/LeetCode/tree/master/0830-largest-triangle-area) |
 | [0867-new-21-game](https://github.com/Kumaramit0809/LeetCode/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/Kumaramit0809/LeetCode/tree/master/0900-reordered-power-of-2) |
+| [1284-four-divisors](https://github.com/Kumaramit0809/LeetCode/tree/master/1284-four-divisors) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Kumaramit0809/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Kumaramit0809/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Kumaramit0809/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
