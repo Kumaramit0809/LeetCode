@@ -261,6 +261,7 @@
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Kumaramit0809/LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Kumaramit0809/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1904-second-largest-digit-in-a-string](https://github.com/Kumaramit0809/LeetCode/tree/master/1904-second-largest-digit-in-a-string) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/Kumaramit0809/LeetCode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Kumaramit0809/LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Kumaramit0809/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Kumaramit0809/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -313,6 +314,7 @@
 | [1813-maximum-erasure-value](https://github.com/Kumaramit0809/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Kumaramit0809/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1904-second-largest-digit-in-a-string](https://github.com/Kumaramit0809/LeetCode/tree/master/1904-second-largest-digit-in-a-string) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/Kumaramit0809/LeetCode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Kumaramit0809/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Kumaramit0809/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2023-design-movie-rental-system](https://github.com/Kumaramit0809/LeetCode/tree/master/2023-design-movie-rental-system) |
@@ -556,6 +558,7 @@
 | [0190-reverse-bits](https://github.com/Kumaramit0809/LeetCode/tree/master/0190-reverse-bits) |
 | [0342-power-of-four](https://github.com/Kumaramit0809/LeetCode/tree/master/0342-power-of-four) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Kumaramit0809/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/Kumaramit0809/LeetCode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Kumaramit0809/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2529-range-product-queries-of-powers](https://github.com/Kumaramit0809/LeetCode/tree/master/2529-range-product-queries-of-powers) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Kumaramit0809/LeetCode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
@@ -572,6 +575,7 @@
 | [1046-max-consecutive-ones-iii](https://github.com/Kumaramit0809/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Kumaramit0809/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Kumaramit0809/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/Kumaramit0809/LeetCode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Kumaramit0809/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Kumaramit0809/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2529-range-product-queries-of-powers](https://github.com/Kumaramit0809/LeetCode/tree/master/2529-range-product-queries-of-powers) |
