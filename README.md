@@ -103,6 +103,7 @@
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Kumaramit0809/LeetCode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Kumaramit0809/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Kumaramit0809/LeetCode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Kumaramit0809/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Kumaramit0809/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Kumaramit0809/LeetCode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Kumaramit0809/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
@@ -518,6 +519,7 @@
 | [2432-number-of-zero-filled-subarrays](https://github.com/Kumaramit0809/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Kumaramit0809/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Kumaramit0809/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Kumaramit0809/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Kumaramit0809/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Kumaramit0809/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/Kumaramit0809/LeetCode/tree/master/3279-alice-and-bob-playing-flower-game) |
