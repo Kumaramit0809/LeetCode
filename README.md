@@ -308,6 +308,7 @@
 | [0940-fruit-into-baskets](https://github.com/Kumaramit0809/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/Kumaramit0809/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1006-vowel-spellchecker](https://github.com/Kumaramit0809/LeetCode/tree/master/1006-vowel-spellchecker) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/Kumaramit0809/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Kumaramit0809/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Kumaramit0809/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Kumaramit0809/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -502,6 +503,7 @@
 | [0830-largest-triangle-area](https://github.com/Kumaramit0809/LeetCode/tree/master/0830-largest-triangle-area) |
 | [0867-new-21-game](https://github.com/Kumaramit0809/LeetCode/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/Kumaramit0809/LeetCode/tree/master/0900-reordered-power-of-2) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/Kumaramit0809/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1284-four-divisors](https://github.com/Kumaramit0809/LeetCode/tree/master/1284-four-divisors) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Kumaramit0809/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Kumaramit0809/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
