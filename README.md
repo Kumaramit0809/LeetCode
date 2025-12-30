@@ -105,6 +105,7 @@
 | [2529-range-product-queries-of-powers](https://github.com/Kumaramit0809/LeetCode/tree/master/2529-range-product-queries-of-powers) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Kumaramit0809/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2689-rearranging-fruits](https://github.com/Kumaramit0809/LeetCode/tree/master/2689-rearranging-fruits) |
+| [2789-largest-element-in-an-array-after-merge-operations](https://github.com/Kumaramit0809/LeetCode/tree/master/2789-largest-element-in-an-array-after-merge-operations) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Kumaramit0809/LeetCode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Kumaramit0809/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Kumaramit0809/LeetCode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
@@ -423,6 +424,7 @@
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Kumaramit0809/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Kumaramit0809/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2689-rearranging-fruits](https://github.com/Kumaramit0809/LeetCode/tree/master/2689-rearranging-fruits) |
+| [2789-largest-element-in-an-array-after-merge-operations](https://github.com/Kumaramit0809/LeetCode/tree/master/2789-largest-element-in-an-array-after-merge-operations) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Kumaramit0809/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Kumaramit0809/LeetCode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Kumaramit0809/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
