@@ -31,6 +31,7 @@
 | [0135-candy](https://github.com/Kumaramit0809/LeetCode/tree/master/0135-candy) |
 | [0139-word-break](https://github.com/Kumaramit0809/LeetCode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Kumaramit0809/LeetCode/tree/master/0152-maximum-product-subarray) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Kumaramit0809/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kumaramit0809/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0219-contains-duplicate-ii](https://github.com/Kumaramit0809/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/Kumaramit0809/LeetCode/tree/master/0228-summary-ranges) |
@@ -484,6 +485,7 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Kumaramit0809/LeetCode/tree/master/0069-sqrtx) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Kumaramit0809/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kumaramit0809/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Kumaramit0809/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/Kumaramit0809/LeetCode/tree/master/0410-split-array-largest-sum) |
