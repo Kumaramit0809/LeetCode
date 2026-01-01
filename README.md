@@ -158,6 +158,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Kumaramit0809/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/Kumaramit0809/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Kumaramit0809/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Kumaramit0809/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0165-compare-version-numbers](https://github.com/Kumaramit0809/LeetCode/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kumaramit0809/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Kumaramit0809/LeetCode/tree/master/0283-move-zeroes) |
@@ -323,6 +324,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Kumaramit0809/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/Kumaramit0809/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0139-word-break](https://github.com/Kumaramit0809/LeetCode/tree/master/0139-word-break) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Kumaramit0809/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Kumaramit0809/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0219-contains-duplicate-ii](https://github.com/Kumaramit0809/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Kumaramit0809/LeetCode/tree/master/0229-majority-element-ii) |
@@ -514,6 +516,7 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Kumaramit0809/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Kumaramit0809/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Kumaramit0809/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Kumaramit0809/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Kumaramit0809/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Kumaramit0809/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
