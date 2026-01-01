@@ -20,4 +20,4 @@ class Solution:
             else:
                 pB = headA
         
-        return pB
+        return pA
