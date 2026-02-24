@@ -83,6 +83,7 @@
 | [1628-count-submatrices-with-all-ones](https://github.com/Kumaramit0809/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Kumaramit0809/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1646-kth-missing-positive-number](https://github.com/Kumaramit0809/LeetCode/tree/master/1646-kth-missing-positive-number) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Kumaramit0809/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1813-maximum-erasure-value](https://github.com/Kumaramit0809/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Kumaramit0809/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Kumaramit0809/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
